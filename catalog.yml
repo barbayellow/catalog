@@ -1,9 +1,8 @@
 all:
   realbook.fr:
     name: The Real Book
-    description: Le Real Book est un livre qui rassemble de nombreux standards de
-      jazz. Les trois volumes du RealBook, En C, Eb, Bb et Fa
-    language: <lang>
+    description: Le Real Book est un livre qui rassemble de nombreux standards de jazz. Les trois volumes du RealBook, En C, Eb, Bb et Fa
+    language: fr
     version: '2017-03-19'
     url: http://www.barbayellow.com/catalog/realbook.zip
     size: 192627334
